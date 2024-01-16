@@ -4,7 +4,7 @@ import { TabItem } from '../TabItem'
 import { Tabs, TabsProps } from './Tabs'
 
 const subtitle = `Navigation`
-const description = `Tabs are a navigational component that efficiently organizes related content, enabling users to switch between different groups of information within the same context.`
+const description = `Tabs are a navigational component that efficiently organises related content, enabling users to switch between different groups of information within the same context.`
 
 export default {
   title: 'Tabs',
